@@ -1,2 +1,2 @@
-# study.comUnblockChromeExtension
-Unblocks text on study.com
+# study.com-paywall-bypass
+Chrome Extension that unblocks the paywalls on study.com
